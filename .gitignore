@@ -1,0 +1,5 @@
+*.jpg
+*.venv/
+untracked/
+.ipynb_checkpoints
+modelHelloWorld
