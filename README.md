@@ -2,6 +2,7 @@
 
 Current output tree:
 
+```
 $ tree
 .
 ├── CV_School_23.pdf
@@ -25,4 +26,5 @@ $ tree
 ├── photographs.csv
 ├── README.md
 └── vif.csv
+```
 
